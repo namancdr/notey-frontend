@@ -1,0 +1,126 @@
+*{
+    font-family: agency fb;
+    color: white;
+}
+
+body{
+    background-color: #1F1D2C;
+}
+.light{
+    color: white;
+}
+
+
+.navbar{
+    background-color: #1F1D2C;
+}
+
+.bgDark{
+    background-color:#282838 ;
+    border-radius: 5px;
+}
+
+.orangeText{
+    color: #FFA600;
+}
+
+.bigText{
+    font-size: 80px;
+}
+
+.noteItem{
+    background-color: #282838;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    border-radius: 10px;
+}
+.deleteIcon{
+    float: right;
+    height: 15px;
+    margin: 5px;
+}
+
+.editIcon{
+    float: right;
+    height: 15px;
+    margin: 5px;
+}
+
+.AddBtn {
+    background-color: #282838;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    border: 2px solid #C38BFF;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 6px px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+
+}
+
+.AddBtn img{
+    height: 40px;
+    width: 40px;
+    
+}
+
+.alert-container{
+    position: sticky;
+    top:10px;
+}
+
+.profileIcon{
+    height: 25px;
+    width: 25px;
+}
+
+.logo{
+    height: 40px;
+}
+
+.tag{
+    background-color: #C38BFF;
+    padding: 7px;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: auto;
+}
+
+hr{
+    color: #FFA600;
+}
+
+.login-parent-container{
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.login-sec-1{
+    max-width: 40%;
+}
+.loginContainer{
+    max-width: 40%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .bigText{
+        font-size: 50px;
+    }
+    .orangeText{
+        font-size: 30px;
+    }
+
+    
+    .login-sec-1{
+        max-width: 100%;
+    }
+    .loginContainer{
+        max-width: 100%;
+    }
+
+  }
