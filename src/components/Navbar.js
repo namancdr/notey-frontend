@@ -24,7 +24,7 @@ const Navbar = () => {
                     <form className='d-flex'>
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                {localStorage.getItem('token') && <Link className={`nav-link ${location.pathname==='/profile' ? "active" : "" }`} aria-current="page" to="/profile"><img src={profileIcon} className="profileIcon" alt="Profile" /></Link>}
+                                {localStorage.getItem('token') && <Link className={`mx-2 nav-link ${location.pathname==='/profile' ? "active" : "" }`} aria-current="page" to="/profile"><img src={profileIcon} className="profileIcon" alt="Profile" /></Link>}
                             </li>
                                 
                         </ul> 

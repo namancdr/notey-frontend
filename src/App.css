@@ -124,3 +124,15 @@ hr{
     }
 
   }
+
+  .s-key{
+    font-size: 30px;
+    font-weight: 100;
+    color: #FFA600;
+
+  }
+
+  .s-value{
+    font-size: 30px;
+    margin: 10px
+  }
