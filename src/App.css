@@ -107,6 +107,19 @@ hr{
 }
 
 
+.s-key{
+    font-size: 30px;
+    font-weight: 100;
+    color: #FFA600;
+
+  }
+
+  .s-value{
+    font-size: 30px;
+    margin: 10px
+  }
+
+
 @media only screen and (max-width: 600px) {
     .bigText{
         font-size: 50px;
@@ -123,16 +136,16 @@ hr{
         max-width: 100%;
     }
 
-  }
-
-  .s-key{
-    font-size: 30px;
-    font-weight: 100;
-    color: #FFA600;
-
-  }
-
-  .s-value{
-    font-size: 30px;
-    margin: 10px
+    
+    .s-key{
+      font-size: 15px;
+      font-weight: 100;
+      color: #FFA600;
+  
+    }
+  
+    .s-value{
+      font-size: 15px;
+      margin: 10px
+    }
   }
