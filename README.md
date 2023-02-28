@@ -5,6 +5,14 @@
 ### Description
 This is a web application built with the MERN stack that allows users to create, read, update, and delete notes. All notes are saved in the cloud, and the application includes user authentication with login and signup features.
 
+### Implementations
+- Authentication with ExpressJs and MongoDB
+- Cotext API to maintain global state
+- Bootstrap and custom CSS used for styling
+- Environment variables to store API keys
+- Custom Alert messages
+- Bootstrap and custom CSS used for styling and responsive design
+
 ### Features
 - User authentication with login and signup features.
 - Add new notes with a title and content.
