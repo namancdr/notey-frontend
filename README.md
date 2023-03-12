@@ -1,9 +1,9 @@
 # Notey Notes | Save your Notes in the cloud
 
+This is a web application built with the MERN stack that allows users to create, read, update, and delete notes. All notes are saved in the cloud, and the application includes user authentication with login and signup features.
+
 ### Live Demo - [NoteyNotes.vercel.app](https://noteynotes.vercel.app)
 
-### Description
-This is a web application built with the MERN stack that allows users to create, read, update, and delete notes. All notes are saved in the cloud, and the application includes user authentication with login and signup features.
 
 ### Implementations
 - Authentication with ExpressJs and MongoDB
