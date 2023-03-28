@@ -1,6 +1,6 @@
 # Notey Notes | Save your Notes in the cloud
 
--> Created this Block game while i was learning javascript, it was fun building this, source code is in this repository, Enjoy! Happy Learning :-)
+-> A Fullstack Notes saving webApp built with MERN stack that let's user signup/login and save their notes.
 
 ### Live Demo - [NoteyNotes.vercel.app](https://noteynotes.vercel.app)
 
