@@ -1,6 +1,6 @@
 # Notey Notes | Save your Notes in the cloud
 
--> A Fullstack Notes saving webApp built with MERN stack that let's user signup/login and save their notes.
+A Fullstack Notes saving webApp built with MERN stack that let's user signup/login and save their notes.
 
 ### Live Demo - [NoteyNotes.vercel.app](https://noteynotes.vercel.app)
 
