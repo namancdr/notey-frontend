@@ -5,7 +5,7 @@ import alertContext from "../alert/alertContext";
 const NoteState = (props) => {
     const {showAlert} = useContext(alertContext)
 
-    const host = 'https://notey-backend.namancdr.repl.co'
+    const host = 'https://notey-backend.onrender.com'
 
     const inintialNotes = []
 
