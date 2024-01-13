@@ -7,7 +7,7 @@ const Login = (props) => {
     const [credentials, setCredentials] = useState({email: '', password: ''})
     const {showAlert} = useContext(alertContext)
 
-    const host = 'https://notey-backend.namancdr.repl.co'
+    const host = 'https://notey-backend.onrender.com'
 
 
     const navigate = useNavigate()
