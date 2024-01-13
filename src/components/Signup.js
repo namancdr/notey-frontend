@@ -5,7 +5,7 @@ import alertContext from "../context/alert/alertContext"
 
 const Signup = (props) => {
     const {showAlert} = useContext(alertContext)
-    const host = 'https://notey-backend.namancdr.repl.co'
+    const host = 'https://notey-backend.onrender.com'
 
     
     const navigate = useNavigate()
